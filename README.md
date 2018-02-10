@@ -1,2 +1,2 @@
-# springmvc-tutorial____
+# springmvc-tutorial
 
